@@ -1,6 +1,6 @@
 Mega Ladno
 # LadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadnoLadno
-press f
+press f                                                                            (f)
 press f
 press f
 press f
